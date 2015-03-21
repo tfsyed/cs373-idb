@@ -1,5 +1,5 @@
 .bg {
-  background: url('/images/CsCrystals2k.jpg') no-repeat center center;
+/*  background: url('/images/CsCrystals2k.jpg') no-repeat center center;*/
   position: fixed;
   width: 100%;
   height: 350px; /*same height as jumbotron */
@@ -17,6 +17,7 @@
   background:transparent;
 }
 
+
 .img_wide {
     
 }
@@ -26,8 +27,9 @@
 }
 
 body {
-	padding-top:50px;
-}
+  min-height: 2000px;
+  padding-top: 70px;
+  }
 
 #masthead {
 	min-height:270px;
