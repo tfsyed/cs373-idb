@@ -25,7 +25,7 @@
 }
 
 body {
-	padding-top:50px;
+    padding-bottom: 20px;
 }
 
 #masthead {
@@ -53,6 +53,10 @@ body {
 	#masthead h1 {
 		font-size: 100px;
 	}
+}
+
+.navbar {
+  margin-bottom: 20px;
 }
 
 .navbar-bright {
@@ -87,6 +91,6 @@ body {
 }
 
 #sidebar li.active {
-  	border:0 #eee solid;
+  	border:0 #777 solid;
   	border-right-width:4px;
 }

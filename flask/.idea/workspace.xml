@@ -2,8 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaddcbc2-4c08-4052-abf8-fd8e3d0c0338" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../css/alkali.css" afterPath="$PROJECT_DIR$/../css/alkali.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../html/alkali.html" afterPath="$PROJECT_DIR$/../html/alkali.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../css/alkali.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/alkali.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Alkali-earth/Barium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Alkali-earth/Beryllium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Alkali-earth/Calcium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Alkali-earth/Magnesium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Alkali-earth/Radium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Alkali-earth/Strontium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Alkali-earth/Strontium800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Alkali-earth/pt_alkali_metals.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Cesium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/CsCrystals.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/CsCrystals2k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Francium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Group1metals.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Lithium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Potassium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Rubidium.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Sodium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Strontium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Strontium2k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sodium_water.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/jumbotron.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/Alkali-earth/Strontium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/Cesium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/CsCrystals.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/CsCrystals2k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/Francium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/Group1metals.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/Lithium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/Potassium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/Rubidium.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/Sodium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/Strontium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/Strontium2k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/sodium_water.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../html/Halide.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../html/Navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../html/alkali.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../html/alkaliearth.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Alkali-earth/Barium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Alkali-earth/Beryllium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Alkali-earth/Calcium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Alkali-earth/GesturesSlides.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Alkali-earth/Magnesium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Alkali-earth/Radium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Alkali-earth/pt_alkali_metals.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Barium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Beryllium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Calcium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Cesium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/CsCrystals.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/CsCrystals2k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Francium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/GesturesSlides.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Group1metals.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Lithium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Magnesium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Potassium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Radium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Rubidium.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Sodium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Strontium.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Strontium2k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/Strontium800.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/pt_alkali_metals.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../images/sodium_water.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../scripts/jumbotron.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/helloworld.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Alkali-earth/Barium.jpg" afterPath="$PROJECT_DIR$/static/images/Alkali-earth/Barium.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Alkali-earth/Beryllium.jpg" afterPath="$PROJECT_DIR$/static/images/Alkali-earth/Beryllium.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Alkali-earth/Calcium.jpg" afterPath="$PROJECT_DIR$/static/images/Alkali-earth/Calcium.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Alkali-earth/Magnesium.jpg" afterPath="$PROJECT_DIR$/static/images/Alkali-earth/Magnesium.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Alkali-earth/Radium.jpg" afterPath="$PROJECT_DIR$/static/images/Alkali-earth/Radium.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/alkali.css" afterPath="$PROJECT_DIR$/static/css/alkali.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/layout.html" afterPath="$PROJECT_DIR$/templates/layout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="flask.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,7 +92,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/flask$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1426906256599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1426912790100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -31,11 +106,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="helloworld.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helloworld.py">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="900">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="318" max-vertical-offset="936">
+              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="306">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -44,8 +129,32 @@
       <file leaf-file-name="layout.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1904762" vertical-offset="0" max-vertical-offset="396">
-              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+            <state vertical-scroll-proportion="1.6193771" vertical-offset="0" max-vertical-offset="1242">
+              <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alkalinearthLayout.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/alkalinearthLayout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-42.666668" vertical-offset="0" max-vertical-offset="2232">
+              <caret line="64" column="123" selection-start-line="64" selection-start-column="123" selection-end-line="64" selection-end-column="123" />
+              <folding>
+                <element signature="e#308#403#0#HTML" expanded="true" />
+                <element signature="e#441#466#0#HTML" expanded="true" />
+                <element signature="e#3572#3596#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alkali.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/alkali.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1218" max-vertical-offset="1836">
+              <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -54,10 +163,22 @@
       <file leaf-file-name="alkali.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/alkali.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.6666667" vertical-offset="432" max-vertical-offset="2124">
-              <caret line="20" column="98" selection-start-line="20" selection-start-column="98" selection-end-line="20" selection-end-column="98" />
+            <state vertical-scroll-proportion="-12.666667" vertical-offset="0" max-vertical-offset="2124">
+              <caret line="19" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alkaliLayout.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/alkaliLayout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-35.333332" vertical-offset="0" max-vertical-offset="1944">
+              <caret line="53" column="115" selection-start-line="53" selection-start-column="115" selection-end-line="53" selection-end-column="115" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,11 +192,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/helloworld.py" />
         <option value="$PROJECT_DIR$/css/alkali.css" />
-        <option value="$PROJECT_DIR$/static/css/alkali.css" />
+        <option value="$PROJECT_DIR$/templates/child.html" />
         <option value="$PROJECT_DIR$/templates/alkali.html" />
+        <option value="$PROJECT_DIR$/templates/alkaliearth.html" />
+        <option value="$PROJECT_DIR$/helloworld.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/layout.html" />
+        <option value="$PROJECT_DIR$/templates/alkaliearthLayout.html" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/templates/alkaliLayout.html" />
+        <option value="$PROJECT_DIR$/static/css/alkali.css" />
       </list>
     </option>
   </component>
@@ -83,10 +210,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="-772" />
+    <option name="x" value="-1301" />
+    <option name="y" value="24" />
     <option name="width" value="1301" />
-    <option name="height" value="772" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -111,7 +238,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -180,7 +306,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -194,12 +320,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,7 +348,11 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/Alkali-earth" />
       <recent name="$PROJECT_DIR$/static" />
     </key>
   </component>
@@ -235,7 +370,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="flask" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloworld.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -453,7 +588,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-772" width="1301" height="772" extended-state="6" />
+    <frame x="-1301" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -462,10 +597,11 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25338647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25737053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -474,9 +610,30 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25737053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -499,41 +656,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/helloworld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/alkali.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.6666667" vertical-offset="432" max-vertical-offset="2124">
-          <caret line="20" column="98" selection-start-line="20" selection-start-column="98" selection-end-line="20" selection-end-column="98" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/alkali.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1764">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/alkali.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.044444446" vertical-offset="0" max-vertical-offset="1782">
-          <caret line="1" column="77" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="900">
           <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
@@ -543,8 +666,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1904762" vertical-offset="0" max-vertical-offset="396">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/alkali.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="2124">
+          <caret line="20" column="98" selection-start-line="20" selection-start-column="98" selection-end-line="20" selection-end-column="98" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/child.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0952381" vertical-offset="0" max-vertical-offset="378">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/alkali.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.666667" vertical-offset="0" max-vertical-offset="2124">
+          <caret line="19" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="318" max-vertical-offset="936">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="306">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/alkali.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1218" max-vertical-offset="1836">
+          <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/alkaliLayout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-35.333332" vertical-offset="0" max-vertical-offset="1944">
+          <caret line="53" column="115" selection-start-line="53" selection-start-column="115" selection-end-line="53" selection-end-column="115" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/alkalinearthLayout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-42.666668" vertical-offset="0" max-vertical-offset="2232">
+          <caret line="64" column="123" selection-start-line="64" selection-start-column="123" selection-end-line="64" selection-end-column="123" />
+          <folding>
+            <element signature="e#308#403#0#HTML" expanded="true" />
+            <element signature="e#441#466#0#HTML" expanded="true" />
+            <element signature="e#3572#3596#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6193771" vertical-offset="0" max-vertical-offset="1242">
+          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
           <folding />
         </state>
       </provider>
