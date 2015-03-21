@@ -1,0 +1,24 @@
+.main li {
+ 	width:280px;
+  height:300px;
+  border:1px solid rgba(0,0,0,0.3);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,0.4);
+  position:relative;
+  font-size:18px;
+  float:left;
+  padding:0 2px;
+  margin:1px;
+  cursor:pointer;
+  padding-top:20px;
+  overflow:hidden;
+  transition:all .2s ease-in;
+  text-shadow:0 1px 0 rgba(255,255,255,0.2);
+}
+
+.main li span {
+  display:block;
+  line-height:1;
+  font-size:9px;
+  color:black; 
+  padding-top:7px;
+}
