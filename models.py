@@ -27,7 +27,8 @@ class Period(db.Model):
     description = db.Column(db.Text)
     properties = db.Column(db.Text)
     elements = db.relationship('Element',backref='period',lazy='dynamic')
-  	
+  	#trivias = db.relationship('Trivia',backref='period',lazy='dynamic')
+
   	def __init__(self, row, description="None", properties="None"):
   		self.row = row
   		self.description = description
@@ -35,4 +36,20 @@ class Period(db.Model):
 
     def __repr__(self):
         return '<Period %s>' % self.symbol
+
+class Group(db.Model):
+    column = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(50))
+    information = db.Column(db.Text)
+    elements = db.relationship('Element',backref='group',lazy='dynamic')
+    #trivias = db.relationship('Trivia',backref='group',lazy='dynamic')
+  	
+  	def __init__(self, column,name, description="None", properties="None"):
+  		self.column = column
+  		self.name = name
+  		self.description = description
+  		self.properties = properties
+
+    def __repr__(self):
+        return '<Group %s>' % self.name
 
