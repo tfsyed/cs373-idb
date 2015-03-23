@@ -9,13 +9,30 @@ class Element(db.Model):
     group = db.Column(db.Integer, db.ForeignKey('group.column'))
     period = db.Column(db.Integer, db.ForeignKey('period.row'))
   	
-  	def __init__(self, atomic_number, symbol, name, atomic_mass, group, period,history=None):
+  	def __init__(self, atomic_number, symbol, name, atomic_mass, group, period,history="None"):
         self.atomic_number = atomic_number
         self.symbol = symbol
         self.name = name
         self.atomic_number = atomic_number
         self.atomic_mass = atomic_mass
         self.period = period
+        self.history = history
+
 
     def __repr__(self):
         return '<Element %s>' % self.symbol
+
+class Period(db.Model):
+    row = db.Column(db.Integer, primary_key=True)
+    description = db.Column(db.Text)
+    properties = db.Column(db.Text)
+    elements = db.relationship('Element',backref='period',lazy='dynamic')
+  	
+  	def __init__(self, row, description="None", properties="None"):
+  		self.row = row
+  		self.description = description
+  		self.properties = properties
+
+    def __repr__(self):
+        return '<Period %s>' % self.symbol
+
