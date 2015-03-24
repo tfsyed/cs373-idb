@@ -27,6 +27,8 @@ def group(name=None):
         return render_template('alkaliLayout.html', name=name)
     elif name =='alkaline-earth':
         return render_template('alkalinearthLayout.html', name=name)
+    elif name =='halogen':
+        return render_template('halogenLayout.html', name=name)
     else:
         return "Page not found!"
 
@@ -44,4 +46,4 @@ def group(name=None):
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0')
