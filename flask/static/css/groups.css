@@ -1,0 +1,62 @@
+/*
+ * Style tweaks
+ * --------------------------------------------------
+ */
+html,
+body {
+  overflow-x: hidden; /* Prevent scroll on narrow devices */
+}
+body {
+  padding-top: 100px;
+}
+footer {
+  padding: 10px 0;
+    alignment: center;
+}
+
+h1{
+    color:black;
+    font-family:Helvetica Neue;
+    text-align: center;
+}
+
+p{
+  font-size:15px;
+    font-family: Verdana;
+    font-style: inherit;
+    color: black;
+}
+
+td.img{
+    align:center;
+    width:120px;
+    height:110px;
+}
+td.bio{
+    width:310px;
+    height:120px;
+}
+
+img{
+    width: 90px;
+    height: 90px;
+    border-radius:
+    45px; -webkit-border-radius: 45px;
+    -moz-border-radius: 45px
+}
+a.api:link{
+    padding-left: 200px;
+    font-style: italic;
+    font-size: 20px;
+    color:chocolate;
+}
+
+a.api:hover{
+    font-style: inherit;
+    color:chocolate;
+    text-decoration: none;
+}
+
+a.api:visited{
+    color:coral;
+}

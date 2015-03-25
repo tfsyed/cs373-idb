@@ -15,11 +15,11 @@ def show_post(post_id):
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('Index.html')
 
-@app.route('/hello')
-def hello():
-    return 'Hello World'
+@app.route('/about')
+def about():
+    return render_template('Groups.html')
 
 @app.route('/group/<name>')
 def group(name=None):
@@ -29,6 +29,17 @@ def group(name=None):
         return render_template('alkalinearthLayout.html', name=name)
     elif name =='halogen':
         return render_template('halogenLayout.html', name=name)
+    else:
+        return "Page not found!"
+
+@app.route('/element/<name>')
+def element(name=None):
+    if name == 'helium':
+        return render_template('Helium.html', name=name)
+    elif name =='hydrogen':
+        return render_template('Hydrogen.html', name=name)
+    elif name =='fluorine':
+        return render_template('Fluorine.html', name=name)
     else:
         return "Page not found!"
 
@@ -46,4 +57,4 @@ def group(name=None):
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0')
+    app.run()#//host='0.0.0.0')
