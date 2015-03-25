@@ -1,6 +1,7 @@
 from app import db
 
 class Element(db.Model):
+    __tablename__ = 'element'
     atomic_number = db.Column(db.Integer, primary_key=True)
     symbol = db.Column(db.String(3))
     name = db.Column(db.String(50))
@@ -14,6 +15,7 @@ class Element(db.Model):
         return '<Element %s. atomic_number = %d, symbol %s, atomic_mass = %s, group = %s, period = %d>' % (self.name, self.atomic_number,self.symbol,self.atomic_mass,self.group.name,self.period.row)
 
 class Period(db.Model):
+    __tablename__ = 'period'
     row = db.Column(db.Integer, primary_key=True)
     description = db.Column(db.Text)
     properties = db.Column(db.Text)
@@ -29,6 +31,7 @@ class Period(db.Model):
         return '<Period %s>' % self.row
 
 class Group(db.Model):
+    __tablename__ = 'group'
     column = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(50))
     information = db.Column(db.Text)
@@ -45,6 +48,7 @@ class Group(db.Model):
         return '<Group %s>' % self.name
 
 class Trivia(db.Model):
+    __tablename__ = 'trivia'
     id = db.Column(db.Integer, primary_key=True)
     title = db.Column(db.String(50))
     description = db.Column(db.Text)
